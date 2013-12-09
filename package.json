@@ -25,6 +25,5 @@
         "name" : "Johannes Boyne",
         "email" : "johannes@boyne.de"
     },
-    "license" : "MIT",
-    "engine" : { "node" : ">=0.6" }
+    "license" : "MIT"
 }
