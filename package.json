@@ -1,0 +1,30 @@
+{
+    "name" : "json-combinator",
+    "version" : "0.0.1",
+    "description" : "Combine JSON files (or simple) JavaScript Objects.",
+    "main" : "index.js",
+    "bin" : {},
+    "directories" : {
+        "example" : "example",
+        "test" : "test"
+    },
+    "dependencies" : {},
+    "devDependencies" : {
+        "tap" : "~0.2.5"
+    },
+    "scripts" : {
+        "test" : "tap test/*.js"
+    },
+    "repository" : {
+        "type" : "git",
+        "url" : "git://github.com/johannesboyne/json-combinator.git"
+    },
+    "homepage" : "https://github.com/johannesboyne/json-combinator",
+    "keywords" : ["merge","json,","merge","objects,","combin","json,","combine","objects"],
+    "author" : {
+        "name" : "Johannes Boyne",
+        "email" : "johannes@boyne.de"
+    },
+    "license" : "MIT",
+    "engine" : { "node" : ">=0.6" }
+}
